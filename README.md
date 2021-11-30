@@ -21,6 +21,7 @@ A given ball by ball and season wise data of all the seasons of Indian Premier L
 @ RCB has the 2nd highest runs in IPL history. RCB has less win percentage than most of the other top teams . 2011 was the best season for RCB.
 @ D Padikkal is among the top 10 highest run scorers for RCB in just two season.
 @ G Maxwell , D Padikkal,V Kohli are among the top 15 run scores in ipl 2021. H Patel has the highest top wickets but as a team RCB has lower wickets than the top teams
+
 2.
 @CSK in 2020
 CSK has lowest overall runs.

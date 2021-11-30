@@ -29,6 +29,7 @@ No batsman from CSK among the top 10 run scorers.
 No bowler from CSK among the top 10 wicket takers. 6th
 position in total wickets among other teams.
 Lowest number of total boundaries after RCB in 2020.
+
 @CSK in 2021
 CSK has lowest overall runs.
 R Gaikwad and Faf du Plessis from CSK are the top two run scorers.

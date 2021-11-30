@@ -13,7 +13,7 @@ A given ball by ball and season wise data of all the seasons of Indian Premier L
 
 2. Chennai Super Kings was the first team to get eliminated from IPL 2020, but lifted the trophy in 2021 with more or less the same squad. What were the things they did differently?
 
-3.Complete analysis of all IPL teams in all the season and rivalry of MI vs CSK , who dominates in most of the times
+ 3.Complete analysis of all IPL teams in all the season and rivalry of MI vs CSK , who dominates in most of the times
 
 # Conclusions 
 1.

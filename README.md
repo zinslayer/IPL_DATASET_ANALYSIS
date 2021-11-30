@@ -7,6 +7,7 @@ Riders putting up numbers on a cardboard to change or stick to a particular
 strategy.
 # Description 
 A given ball by ball and season wise data of all the seasons of Indian Premier League(IPL) in the form of a csv file. Different stories/incidents/happenings from the league and data driven analysis is done of the why and how of the incidents in a quantitative manner.
+
 #Here are some sample stories taken :
 1. Virat Kohli is one of the best batsman in IPL , but his team RCB failed to win a single season . Why RCB didn't win a season till now ?
 
@@ -14,7 +15,7 @@ A given ball by ball and season wise data of all the seasons of Indian Premier L
 
 3.Complete analysis of all IPL teams in all the season and rivalry of MI vs CSK , who dominates in most of the times
 
-#Conclusions 
+# Conclusions 
 1.
 @ Virat Kohli is the highest run scorer in IPL.Kohli get's caught out most of the times , surprisingly he gets run out more than Lbw and stumped.
 @ RCB has the 2nd highest runs in IPL history. RCB has less win percentage than most of the other top teams . 2011 was the best season for RCB.
